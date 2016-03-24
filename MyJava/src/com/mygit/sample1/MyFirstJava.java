@@ -4,7 +4,7 @@ public class MyFirstJava {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("This is my First Project to GIT");
+		System.out.println("This is my First Project to GIT xxx");
 	}
 
 }
